@@ -31,7 +31,7 @@ The two filter conditions are mutually exclusive and together cover every possib
 
 ## Screenshots
 
-- <a href="https://github.com/mugabepatricia/Lead-Router-Qualification-Router/commit/e99585a03dd30cba170b67934fde3b7bf5e42835">Projrct screenshot</a>
+- <a href="https://github.com/mugabepatricia/Lead-Router-Qualification-Router/commit/e99585a03dd30cba170b67934fde3b7bf5e42835">Project screenshot</a>
 
 ## What I'd Build Next
 
